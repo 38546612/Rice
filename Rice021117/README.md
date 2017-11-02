@@ -1,4 +1,4 @@
-Three outlined, boxes, near transparent dark background. 
+Three outlined boxes, near transparent dark background. 
 
 Top box includes six elements; time, date, battery level, data connection type, cell signal and feels like temperature.
 
